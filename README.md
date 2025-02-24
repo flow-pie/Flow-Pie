@@ -58,9 +58,10 @@ Here’s what I love working with:
 ---
 
 ### 📫 **Let’s Connect!**  
-💻 Explore my repositories: [**flow-pie**](https://github.com/flow-pie)  
+
 🚀 *“Code is poetry—let’s write the next stanza together!”*  
 
+💻 Explore my repositories: [**flow-pie**](https://github.com/flow-pie)  
 ---
 
 **🔨 Currently Building**: *Something secret involving AI …* ☕🤖  
