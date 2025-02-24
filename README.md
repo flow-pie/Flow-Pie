@@ -4,7 +4,7 @@
 ---
 
 ### 🔥 **About Me**  
-I’m a passionate student diving headfirst into the world of **AI development** and **algorithm design**. When I’m not behind my laptop, you’ll find me:  
+I’m a passionate programmer diving headfirst into the world of **AI development** and **algorithm design**. When I’m not behind my laptop, you’ll find me:  
 - 🧠 Crafting neural networks and optimization algorithms.  
 - ⚙️ Building tools that blend creativity with logic.  
 - 📚 Learning new frameworks to turn ideas into reality.  
