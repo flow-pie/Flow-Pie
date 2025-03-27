@@ -1,5 +1,11 @@
 # 👋 Hi, I’m [Flow-Pie](https://github.com/flow-pie/)!  
-### *"Turning codes to solutions"* ✨  
+
+<div align="center">
+  <h3>✨ *"Turning codes to solutions"* ✨ ✨</h3>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+</div>
+
+---
 
 ---
 
