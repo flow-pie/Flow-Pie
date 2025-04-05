@@ -1,5 +1,10 @@
-```markdown
-# 👋 Hi, I’m Flow-Pie | AI & Full-Stack Developer
+
+# 👋 Hi, I’m Flow-Pie 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=System+Architect+Mode%3A+ACTIVE;Computational+Creativity%3A+MAXIMIZED;Innovation+Quotient%3A+∞" alt="Terminal Status">
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Code Symphony">
@@ -114,9 +119,5 @@ print(f"System Impact Score: {EngineeringImpact().calculate_impact():.1f} ⚡")
 **Output**: `System Impact Score: 582.1 ⚡`  
 </details>
 
----
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=System+Architect+Mode%3A+ACTIVE;Computational+Creativity%3A+MAXIMIZED;Innovation+Quotient%3A+∞" alt="Terminal Status">
-</div>
 ```
