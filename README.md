@@ -62,13 +62,6 @@
 
 ---
 
-### 🏆 **Technical Publications**
-- **"Neural Architecture Search for Edge Devices"** [IEEE Access 2023]
-- **"Optimizing CUDA Kernels for Real-Time Inference"** [ACM Transactions 2022]
-- **"Secure Microservice Architecture Patterns"** [O'Reilly Radar 2021]
-
----
-
 ### 🧠 **Cognitive Development**
 ```mermaid
 graph LR
