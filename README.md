@@ -1,116 +1,109 @@
-
-# 👋 Hi, I’m Flow-Pie 
----
+# 🕶️ Flow-Pie | System Architect & Cybernetics DevOps | AI/ML
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=System+Architect+Mode%3A+ACTIVE;Computational+Creativity%3A+MAXIMIZED;Innovation+Quotient%3A+∞" alt="Terminal Status">
-</div>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" alt="Hacker Loop">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Code Symphony">
-  <h3>🚀 *"Architecting Intelligent Solutions Through Algorithmic Precision"* 🚀</h3>
-</div>
+  <h3 style="font-size: 2em; background: linear-gradient(90deg, #0FF, #0F0, #00F); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 18px rgba(0,255,0,0.5);">
+    🧠 "Injecting Intelligence into Every Stack, Stealth First." 🧠
+  </h3>
 
----
-
-### 🔭 **Strategic Development Focus**
-**Solutions Architect** specializing in:
-- **AI/ML Systems**: Neural Architecture Design • Predictive Analytics • Cognitive Computing
-- **High-Performance Computing**: Algorithm Optimization • Parallel Computing • Embedded Systems
-- **Full-Stack Engineering**: Scalable Microservices • Cloud-Native Applications • CI/CD Pipelines
-
----
-
-### ⚙️ **Core Technical Competencies**
-
-#### **Language Ecosystem**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-#### **AI/ML Stack**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-
-#### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-#### **Data Engineering**
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-### 📈 **Engineering Metrics**
-
-<div align="center">
-  
-| Strategic Contributions | System Optimization |
-|-------------------------|---------------------|
-| ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=flow-pie&theme=react-dark&hide_border=true&area=true) | ![Performance Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flow-pie&theme=github_dark) |
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00F718&center=true&vCenter=true&width=700&height=60&lines=Booting+Darknet+Node...;Initializing+Dev+Stealth+Suite...;Identity%3A+Flow-Pie;Focus%3A+Max+Optimization+%26+Silent+Efficiency" />
 </div>
 
 ---
 
-### 🧠 **Cognitive Development**
-```mermaid
-graph LR
-A[Problem Analysis] --> B[Algorithm Design]
-B --> C[Complexity Optimization]
-C --> D[System Implementation]
-D --> E[Performance Benchmarking]
-E --> F[Continuous Iteration]
-```
+### ⚔️ Strategic Battlefield
+
+* 🕵️ **Cybernetic Architect** | Multi-stack Warrior | Logic-Level Thinker
+* ⚡ **Low-Level to High-Scale** | C ↔ Cloud-Native ↔ Cognitive AI
+* 🔐 **Security-Sensitive Builds** | Voting Systems, Predictive Engines, Real-time Infrastructure
 
 ---
 
-### 📬 **Strategic Collaboration**
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/flow-pie)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/flow-pie)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/flow-pie)
+### 🧩 Core Skill Matrix
 
+<table>
+<tr>
+<td>
+<h4>🚀 Language Arsenal</h4>
+<img src="https://img.shields.io/badge/C-262626?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-143?style=for-the-badge&logo=python&logoColor=white"/>
+</td>
+<td>
+<h4>🧠 ML/AI Ops</h4>
+<img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&logoColor=D00000"/>
+<img src="https://img.shields.io/badge/ONNX-black?style=for-the-badge&logo=onnx&logoColor=005CED"/>
+</td>
+</tr>
+<tr>
+<td>
+<h4>☁️ Cloud & Infra</h4>
+<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-222?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</td>
+<td>
+<h4>📡 Realtime / Streaming</h4>
+<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/WebSockets-000?style=for-the-badge&logo=websockets&logoColor=4FC08D"/>
+</td>
+</tr>
+</table>
+
+---
+
+### 🧬 Ops Dashboard
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flow-pie&theme=chartreuse-dark&hide_border=true&area=true"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=flow-pie&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_title=true"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flow-pie&layout=compact&theme=tokyonight&border_radius=12"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=flow-pie&theme=dracula&no-bg=true&margin-w=10"/>
 </div>
 
 ---
 
-### 🚧 **Active Development**
-**Project Athena**: Next-gen AI orchestration framework with:  
-✅ Dynamic computation graphs  
-✅ Automatic CUDA kernel optimization  
-✅ Cross-platform model serving  
+### 👁️ Access Nodes
+
+<div align="center">
+<a href="https://linkedin.com/in/flow-pie">
+  <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/flow-pie">
+  <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+<a href="https://researchgate.net/profile/flow-pie">
+  <img src="https://img.shields.io/badge/ResearchGate-black?style=for-the-badge&logo=researchgate&logoColor=00CCBB"/>
+</a>
+<a href="mailto:startabase@gmail.com">
+  <img src="https://img.shields.io/badge/Encrypted%20Mail-black?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
+</div>
 
 ---
 
-<details>
-<summary><b>🔍 Technical Footprint Analysis</b></summary>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0,00F,0FF&height=200&section=footer&text=Flow%20Pie%20Ops%20↯&fontColor=ffffff&fontSize=30&animation=twinkling"/>
+</div>
 
-```python
-class EngineeringImpact:
-    def __init__(self):
-        self.projects = 42
-        self.optimizations = 137
-        self.algorithms = 89
-        
-    def calculate_impact(self):
-        return (self.projects * 2.5) + (self.optimizations * 1.8) + (self.algorithms * 3.2)
+> *"When the code goes silent, that's when it's most lethal."*
 
-print(f"System Impact Score: {EngineeringImpact().calculate_impact():.1f} ⚡")
-```
+<!-- terminal stealth signature -->
 
-**Output**: `System Impact Score: 582.1 ⚡`  
-</details>
-
-
+```bash
+┌────────────────────────────────────────┐
+│ Agent : Flow-Pie                      │
+│ Mode  : Stealth Intelligence Enabled  │
+│ Auth  : SHA-3 Handshake Verified      │
+└────────────────────────────────────────┘
 ```
