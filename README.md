@@ -1,26 +1,7 @@
 # Flow-Pie | System Architect & Cybernetics DevOps | AI/ML
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" alt="Hacker Loop">
 
-  <h3 style="font-size: 2em; background: linear-gradient(90deg, #0FF, #0F0, #00F); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 18px rgba(0,255,0,0.5);">
-     "Injecting Intelligence into Every Stack, Stealth First." 
-  </h3>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00F718&center=true&vCenter=true&width=700&height=60&lines=Booting+Darknet+Node...;Initializing+Dev+Stealth+Suite...;Identity%3A+Flow-Pie;Focus%3A+Max+Optimization+%26+Silent+Efficiency" />
-</div>
-
----
-
-### Strategic Battlefield
-
-* **Cybernetic Architect** | Multi-stack Warrior | Logic-Level Thinker
-* **Low-Level to High-Scale** | C ↔ Cloud-Native ↔ Cognitive AI
-* **Security-Sensitive Builds** | Voting Systems, Predictive Engines, Real-time Infrastructure
-
----
-
-### Core Skill Matrix
+### Core Skill
 
 <table>
 <tr>
