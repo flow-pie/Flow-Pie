@@ -46,13 +46,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=flow-pie&theme=chartreuse-dark&hide_border=true&area=true"/>
 
   <!-- Stats Card -->
-<img src="https://github-readme-stats-eight-theta.vercel.app"/>
+<img src="https://nice-readme.vercel.app"/>
 
-<!--  Top Languages Card -->
-<img src="https://github-readme-stats-eight-theta.vercel.app"/>
+<!-- Top Languages Card -->
+<img src="https://nice-readme.vercel.app"/>
 
-<!--  Trophies Card -->
+<!-- Trophies Card -->
 <img src="https://github-profile-trophy-nu.vercel.app"/>
+
 
 </div>
 
