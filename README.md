@@ -45,11 +45,15 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=flow-pie&theme=chartreuse-dark&hide_border=true&area=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=flow-pie&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_title=true"/>
+  <!-- Stats Card -->
+<img src="https://github-readme-stats-eight-theta.vercel.app"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flow-pie&layout=compact&theme=tokyonight&border_radius=12"/>
+<!--  Top Languages Card -->
+<img src="https://github-readme-stats-eight-theta.vercel.app"/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=flow-pie&theme=dracula&no-bg=true&margin-w=10"/>
+<!--  Trophies Card -->
+<img src="https://github-profile-trophy-nu.vercel.app"/>
+
 </div>
 
 ---
