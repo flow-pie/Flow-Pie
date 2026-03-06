@@ -46,7 +46,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=flow-pie&theme=chartreuse-dark&hide_border=true&area=true"/>
 
   <!-- Stats Card -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=flow-pie&theme=merko"/>
+<img src="https://github-readme-stats-profile.vercel.app/api?username=flow-pie&show_icons=true&theme=merko"/>
 
 <!-- Top Languages Card -->
 <img src="https://nice-readme.vercel.app"/>
