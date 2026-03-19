@@ -52,7 +52,7 @@
 <img src="https://nice-readme.vercel.app"/>
 
 <!-- Trophies Card -->
-<img src="https://github-trophies.vercel.app/?username=flow-pie&theme=matrix"/>
+<img src="https://github-trophies.vercel.app/?username=flow-pie&theme=dracula"/>
 
 
 </div>
